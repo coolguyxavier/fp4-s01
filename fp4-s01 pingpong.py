@@ -2,6 +2,23 @@
 # - Xzavier Moosomin - #
 # - 05/18/2024 - #
 
+# - Answer English Questions - #
+# Q.1 - The difference between OOP and Procedural coding is that OOP runs on a whole other level that is
+# built around objects and its amazing ability to encapsulate certain actions into a class, whereas procedural coding
+# is built on logic sequence and functions.
+
+# Q.2 - How would my program be different if it was built procedurally? Well, I assume that it would take a lot more
+# time and effort to do the same thing, as well as being longer code-wise as it wouldn't be able to do the same things
+# that OOP does better.
+
+# Q.3 - What are the benefits of Object Oriented Programming? Well, it allows pieces of code to be encapsulated and
+# easily reused and changed due to its ability to inherit from parent classes. OOP also showcases strong
+# polymorphism due to its nature of being maintainable and reusable.
+
+# Q.4 - What are the drawbacks of OOP? There are significant drawbacks to object oriented programming, one of
+# the major reasons being that its difficult to get a good understanding of it. I'm not even fully educated on it,
+# despite spending more time than I should on most OOP projects.
+
 # - Imports - #
 import pygame
 import sys
@@ -135,3 +152,4 @@ while True:
 
     # Cap the frame rate
     clock.tick(60)
+
